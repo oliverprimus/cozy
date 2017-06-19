@@ -1,0 +1,2 @@
+# cozy
+Finished TeaCozy website.
